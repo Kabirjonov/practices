@@ -1,0 +1,23 @@
+.block_for_Rolling{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 5px;
+    /* box-shadow: -1px 0 20px 0 grey; */
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    justify-content: center;
+}
+.box_for_Rolling{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: black;
+    margin: 10px;
+}
+.btn__for_Rolling{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    border: none;
+}
